@@ -1,0 +1,48 @@
+name: pgx-ml
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # Python
+  - python=3.11
+
+  # Core data science
+  - pandas>=2.1
+  - numpy>=1.26
+  - scipy>=1.11
+  - statsmodels>=0.14
+
+  # Machine learning
+  - scikit-learn>=1.3
+  - xgboost>=2.0
+  - shap>=0.44
+
+  # Bioinformatics
+  - pysam>=0.21          # VCF/BAM file handling
+  - cyvcf2>=0.30         # Fast VCF parsing
+  - bcftools             # VCF filtering (conda-forge)
+  - bedtools             # Genomic interval operations
+
+  # Plotting
+  - matplotlib>=3.8
+  - seaborn>=0.13
+  - plotly>=5.18
+
+  # Notebooks
+  - jupyter
+  - ipykernel
+  - ipywidgets
+
+  # Utilities
+  - tqdm                 # Progress bars
+  - requests             # HTTP downloads
+  - pyyaml               # Config files
+  - python-dotenv        # Environment variables
+
+  # Pip installs (not on conda)
+  - pip
+  - pip:
+    - pypgx>=0.23.0      # Star allele calling
+    - upsetplot          # UpSet plots for allele overlap
+    - adjustText         # Non-overlapping plot labels
