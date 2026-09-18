@@ -91,10 +91,10 @@ asian-pgx-ml/
 | Notebook | Description | Status |
 |---|---|---|
 | 01_eda_allele_frequencies | Allele frequency divergence, Figure 1 & 2, statistical tests | ✅ Complete |
-| 02_feature_matrix_construction | SNP + GTEx feature matrix building | 🔄 In progress |
-| 03_ml_model_training | RF, XGBoost, Elastic Net training | ⏳ Pending |
-| 04_shap_explainability | SHAP feature importance analysis | ⏳ Pending |
-| 05_clinical_dosing_mapping | CPIC drug-phenotype mapping | ⏳ Pending |
+| 02_feature_matrix_construction | SNP + GTEx feature matrix building | ✅ Complete |
+| 03_ml_model_training | RF, XGBoost, Elastic Net training | ✅ Complete |
+| 04_shap_explainability | SHAP feature importance analysis | ✅ Complete |
+| 05_clinical_dosing_mapping | CPIC drug-phenotype mapping | ✅ Complete |
 ---
 
 ## Quickstart
