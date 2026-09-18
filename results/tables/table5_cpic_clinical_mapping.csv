@@ -1,0 +1,145 @@
+population,gene,drug,phenotype,n_individuals,n_total,pct,recommendation,rationale,severity,needs_action
+GIH,CYP2C19,clopidogrel,PM,15,106,14.2,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+GIH,CYP2C19,clopidogrel,IM,38,106,35.8,Consider alternative,Reduced activation — consider prasugrel,2,True
+GIH,CYP2C19,clopidogrel,NM,53,106,50.0,Normal,Standard dosing,0,False
+GIH,CYP2C19,omeprazole,PM,15,106,14.2,Reduce dose,50% dose reduction — increased drug exposure,2,True
+GIH,CYP2C19,omeprazole,IM,38,106,35.8,Normal,Standard dosing — monitor response,0,False
+GIH,CYP2C19,omeprazole,NM,53,106,50.0,Normal,Standard dosing,0,False
+GIH,CYP2C19,escitalopram,PM,15,106,14.2,Reduce dose,50% dose reduction — increased plasma levels,2,True
+GIH,CYP2C19,escitalopram,IM,38,106,35.8,Normal,Standard dosing,0,False
+GIH,CYP2C19,escitalopram,NM,53,106,50.0,Normal,Standard dosing,0,False
+GIH,CYP2C19,voriconazole,PM,15,106,14.2,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+GIH,CYP2C19,voriconazole,IM,38,106,35.8,Normal,Standard dosing with TDM,0,False
+GIH,CYP2C19,voriconazole,NM,53,106,50.0,Normal,Standard dosing,0,False
+GIH,CYP2D6,codeine,PM,25,106,23.6,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+GIH,CYP2D6,codeine,IM,19,106,17.9,Use with caution,Reduced conversion — monitor analgesia,1,True
+GIH,CYP2D6,codeine,NM,62,106,58.5,Normal,Standard dosing,0,False
+GIH,CYP2D6,tamoxifen,PM,25,106,23.6,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+GIH,CYP2D6,tamoxifen,IM,19,106,17.9,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+GIH,CYP2D6,tamoxifen,NM,62,106,58.5,Normal,Standard dosing,0,False
+GIH,CYP2D6,tramadol,PM,25,106,23.6,Avoid,Reduced efficacy — inadequate analgesia,3,True
+GIH,CYP2D6,tramadol,IM,19,106,17.9,Normal,Standard dosing with monitoring,0,False
+GIH,CYP2D6,tramadol,NM,62,106,58.5,Normal,Standard dosing,0,False
+GIH,CYP2D6,amitriptyline,PM,25,106,23.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+GIH,CYP2D6,amitriptyline,IM,19,106,17.9,Normal,Standard dosing,0,False
+GIH,CYP2D6,amitriptyline,NM,62,106,58.5,Normal,Standard dosing,0,False
+ITU,CYP2C19,clopidogrel,PM,15,102,14.7,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+ITU,CYP2C19,clopidogrel,IM,46,102,45.1,Consider alternative,Reduced activation — consider prasugrel,2,True
+ITU,CYP2C19,clopidogrel,NM,41,102,40.2,Normal,Standard dosing,0,False
+ITU,CYP2C19,omeprazole,PM,15,102,14.7,Reduce dose,50% dose reduction — increased drug exposure,2,True
+ITU,CYP2C19,omeprazole,IM,46,102,45.1,Normal,Standard dosing — monitor response,0,False
+ITU,CYP2C19,omeprazole,NM,41,102,40.2,Normal,Standard dosing,0,False
+ITU,CYP2C19,escitalopram,PM,15,102,14.7,Reduce dose,50% dose reduction — increased plasma levels,2,True
+ITU,CYP2C19,escitalopram,IM,46,102,45.1,Normal,Standard dosing,0,False
+ITU,CYP2C19,escitalopram,NM,41,102,40.2,Normal,Standard dosing,0,False
+ITU,CYP2C19,voriconazole,PM,15,102,14.7,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+ITU,CYP2C19,voriconazole,IM,46,102,45.1,Normal,Standard dosing with TDM,0,False
+ITU,CYP2C19,voriconazole,NM,41,102,40.2,Normal,Standard dosing,0,False
+ITU,CYP2D6,codeine,PM,19,102,18.6,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+ITU,CYP2D6,codeine,IM,17,102,16.7,Use with caution,Reduced conversion — monitor analgesia,1,True
+ITU,CYP2D6,codeine,NM,66,102,64.7,Normal,Standard dosing,0,False
+ITU,CYP2D6,tamoxifen,PM,19,102,18.6,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+ITU,CYP2D6,tamoxifen,IM,17,102,16.7,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+ITU,CYP2D6,tamoxifen,NM,66,102,64.7,Normal,Standard dosing,0,False
+ITU,CYP2D6,tramadol,PM,19,102,18.6,Avoid,Reduced efficacy — inadequate analgesia,3,True
+ITU,CYP2D6,tramadol,IM,17,102,16.7,Normal,Standard dosing with monitoring,0,False
+ITU,CYP2D6,tramadol,NM,66,102,64.7,Normal,Standard dosing,0,False
+ITU,CYP2D6,amitriptyline,PM,19,102,18.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+ITU,CYP2D6,amitriptyline,IM,17,102,16.7,Normal,Standard dosing,0,False
+ITU,CYP2D6,amitriptyline,NM,66,102,64.7,Normal,Standard dosing,0,False
+BEB,CYP2C19,clopidogrel,PM,10,86,11.6,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+BEB,CYP2C19,clopidogrel,IM,36,86,41.9,Consider alternative,Reduced activation — consider prasugrel,2,True
+BEB,CYP2C19,clopidogrel,NM,40,86,46.5,Normal,Standard dosing,0,False
+BEB,CYP2C19,omeprazole,PM,10,86,11.6,Reduce dose,50% dose reduction — increased drug exposure,2,True
+BEB,CYP2C19,omeprazole,IM,36,86,41.9,Normal,Standard dosing — monitor response,0,False
+BEB,CYP2C19,omeprazole,NM,40,86,46.5,Normal,Standard dosing,0,False
+BEB,CYP2C19,escitalopram,PM,10,86,11.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+BEB,CYP2C19,escitalopram,IM,36,86,41.9,Normal,Standard dosing,0,False
+BEB,CYP2C19,escitalopram,NM,40,86,46.5,Normal,Standard dosing,0,False
+BEB,CYP2C19,voriconazole,PM,10,86,11.6,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+BEB,CYP2C19,voriconazole,IM,36,86,41.9,Normal,Standard dosing with TDM,0,False
+BEB,CYP2C19,voriconazole,NM,40,86,46.5,Normal,Standard dosing,0,False
+BEB,CYP2D6,codeine,PM,9,86,10.5,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+BEB,CYP2D6,codeine,IM,8,86,9.3,Use with caution,Reduced conversion — monitor analgesia,1,True
+BEB,CYP2D6,codeine,NM,69,86,80.2,Normal,Standard dosing,0,False
+BEB,CYP2D6,tamoxifen,PM,9,86,10.5,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+BEB,CYP2D6,tamoxifen,IM,8,86,9.3,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+BEB,CYP2D6,tamoxifen,NM,69,86,80.2,Normal,Standard dosing,0,False
+BEB,CYP2D6,tramadol,PM,9,86,10.5,Avoid,Reduced efficacy — inadequate analgesia,3,True
+BEB,CYP2D6,tramadol,IM,8,86,9.3,Normal,Standard dosing with monitoring,0,False
+BEB,CYP2D6,tramadol,NM,69,86,80.2,Normal,Standard dosing,0,False
+BEB,CYP2D6,amitriptyline,PM,9,86,10.5,Reduce dose,50% dose reduction — increased plasma levels,2,True
+BEB,CYP2D6,amitriptyline,IM,8,86,9.3,Normal,Standard dosing,0,False
+BEB,CYP2D6,amitriptyline,NM,69,86,80.2,Normal,Standard dosing,0,False
+CHB,CYP2C19,clopidogrel,PM,7,106,6.6,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+CHB,CYP2C19,clopidogrel,IM,57,106,53.8,Consider alternative,Reduced activation — consider prasugrel,2,True
+CHB,CYP2C19,clopidogrel,NM,42,106,39.6,Normal,Standard dosing,0,False
+CHB,CYP2C19,omeprazole,PM,7,106,6.6,Reduce dose,50% dose reduction — increased drug exposure,2,True
+CHB,CYP2C19,omeprazole,IM,57,106,53.8,Normal,Standard dosing — monitor response,0,False
+CHB,CYP2C19,omeprazole,NM,42,106,39.6,Normal,Standard dosing,0,False
+CHB,CYP2C19,escitalopram,PM,7,106,6.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+CHB,CYP2C19,escitalopram,IM,57,106,53.8,Normal,Standard dosing,0,False
+CHB,CYP2C19,escitalopram,NM,42,106,39.6,Normal,Standard dosing,0,False
+CHB,CYP2C19,voriconazole,PM,7,106,6.6,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+CHB,CYP2C19,voriconazole,IM,57,106,53.8,Normal,Standard dosing with TDM,0,False
+CHB,CYP2C19,voriconazole,NM,42,106,39.6,Normal,Standard dosing,0,False
+CHB,CYP2D6,codeine,PM,10,106,9.4,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+CHB,CYP2D6,codeine,IM,22,106,20.8,Use with caution,Reduced conversion — monitor analgesia,1,True
+CHB,CYP2D6,codeine,NM,74,106,69.8,Normal,Standard dosing,0,False
+CHB,CYP2D6,tamoxifen,PM,10,106,9.4,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+CHB,CYP2D6,tamoxifen,IM,22,106,20.8,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+CHB,CYP2D6,tamoxifen,NM,74,106,69.8,Normal,Standard dosing,0,False
+CHB,CYP2D6,tramadol,PM,10,106,9.4,Avoid,Reduced efficacy — inadequate analgesia,3,True
+CHB,CYP2D6,tramadol,IM,22,106,20.8,Normal,Standard dosing with monitoring,0,False
+CHB,CYP2D6,tramadol,NM,74,106,69.8,Normal,Standard dosing,0,False
+CHB,CYP2D6,amitriptyline,PM,10,106,9.4,Reduce dose,50% dose reduction — increased plasma levels,2,True
+CHB,CYP2D6,amitriptyline,IM,22,106,20.8,Normal,Standard dosing,0,False
+CHB,CYP2D6,amitriptyline,NM,74,106,69.8,Normal,Standard dosing,0,False
+CHS,CYP2C19,clopidogrel,PM,8,105,7.6,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+CHS,CYP2C19,clopidogrel,IM,58,105,55.2,Consider alternative,Reduced activation — consider prasugrel,2,True
+CHS,CYP2C19,clopidogrel,NM,39,105,37.1,Normal,Standard dosing,0,False
+CHS,CYP2C19,omeprazole,PM,8,105,7.6,Reduce dose,50% dose reduction — increased drug exposure,2,True
+CHS,CYP2C19,omeprazole,IM,58,105,55.2,Normal,Standard dosing — monitor response,0,False
+CHS,CYP2C19,omeprazole,NM,39,105,37.1,Normal,Standard dosing,0,False
+CHS,CYP2C19,escitalopram,PM,8,105,7.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+CHS,CYP2C19,escitalopram,IM,58,105,55.2,Normal,Standard dosing,0,False
+CHS,CYP2C19,escitalopram,NM,39,105,37.1,Normal,Standard dosing,0,False
+CHS,CYP2C19,voriconazole,PM,8,105,7.6,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+CHS,CYP2C19,voriconazole,IM,58,105,55.2,Normal,Standard dosing with TDM,0,False
+CHS,CYP2C19,voriconazole,NM,39,105,37.1,Normal,Standard dosing,0,False
+CHS,CYP2D6,codeine,PM,9,105,8.6,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+CHS,CYP2D6,codeine,IM,14,105,13.3,Use with caution,Reduced conversion — monitor analgesia,1,True
+CHS,CYP2D6,codeine,NM,82,105,78.1,Normal,Standard dosing,0,False
+CHS,CYP2D6,tamoxifen,PM,9,105,8.6,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+CHS,CYP2D6,tamoxifen,IM,14,105,13.3,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+CHS,CYP2D6,tamoxifen,NM,82,105,78.1,Normal,Standard dosing,0,False
+CHS,CYP2D6,tramadol,PM,9,105,8.6,Avoid,Reduced efficacy — inadequate analgesia,3,True
+CHS,CYP2D6,tramadol,IM,14,105,13.3,Normal,Standard dosing with monitoring,0,False
+CHS,CYP2D6,tramadol,NM,82,105,78.1,Normal,Standard dosing,0,False
+CHS,CYP2D6,amitriptyline,PM,9,105,8.6,Reduce dose,50% dose reduction — increased plasma levels,2,True
+CHS,CYP2D6,amitriptyline,IM,14,105,13.3,Normal,Standard dosing,0,False
+CHS,CYP2D6,amitriptyline,NM,82,105,78.1,Normal,Standard dosing,0,False
+JPT,CYP2C19,clopidogrel,PM,11,105,10.5,Avoid,Use alternative antiplatelet (prasugrel/ticagrelor),3,True
+JPT,CYP2C19,clopidogrel,IM,46,105,43.8,Consider alternative,Reduced activation — consider prasugrel,2,True
+JPT,CYP2C19,clopidogrel,NM,48,105,45.7,Normal,Standard dosing,0,False
+JPT,CYP2C19,omeprazole,PM,11,105,10.5,Reduce dose,50% dose reduction — increased drug exposure,2,True
+JPT,CYP2C19,omeprazole,IM,46,105,43.8,Normal,Standard dosing — monitor response,0,False
+JPT,CYP2C19,omeprazole,NM,48,105,45.7,Normal,Standard dosing,0,False
+JPT,CYP2C19,escitalopram,PM,11,105,10.5,Reduce dose,50% dose reduction — increased plasma levels,2,True
+JPT,CYP2C19,escitalopram,IM,46,105,43.8,Normal,Standard dosing,0,False
+JPT,CYP2C19,escitalopram,NM,48,105,45.7,Normal,Standard dosing,0,False
+JPT,CYP2C19,voriconazole,PM,11,105,10.5,Avoid,Unpredictable exposure — use alternative antifungal,3,True
+JPT,CYP2C19,voriconazole,IM,46,105,43.8,Normal,Standard dosing with TDM,0,False
+JPT,CYP2C19,voriconazole,NM,48,105,45.7,Normal,Standard dosing,0,False
+JPT,CYP2D6,codeine,PM,4,105,3.8,Contraindicated,No morphine conversion — inadequate analgesia,4,True
+JPT,CYP2D6,codeine,IM,18,105,17.1,Use with caution,Reduced conversion — monitor analgesia,1,True
+JPT,CYP2D6,codeine,NM,83,105,79.0,Normal,Standard dosing,0,False
+JPT,CYP2D6,tamoxifen,PM,4,105,3.8,Avoid,Severely reduced endoxifen — use aromatase inhibitor,3,True
+JPT,CYP2D6,tamoxifen,IM,18,105,17.1,Consider alternative,Reduced endoxifen — monitor or switch,2,True
+JPT,CYP2D6,tamoxifen,NM,83,105,79.0,Normal,Standard dosing,0,False
+JPT,CYP2D6,tramadol,PM,4,105,3.8,Avoid,Reduced efficacy — inadequate analgesia,3,True
+JPT,CYP2D6,tramadol,IM,18,105,17.1,Normal,Standard dosing with monitoring,0,False
+JPT,CYP2D6,tramadol,NM,83,105,79.0,Normal,Standard dosing,0,False
+JPT,CYP2D6,amitriptyline,PM,4,105,3.8,Reduce dose,50% dose reduction — increased plasma levels,2,True
+JPT,CYP2D6,amitriptyline,IM,18,105,17.1,Normal,Standard dosing,0,False
+JPT,CYP2D6,amitriptyline,NM,83,105,79.0,Normal,Standard dosing,0,False
