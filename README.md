@@ -2,8 +2,7 @@
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status: In Progress](https://img.shields.io/badge/status-in%20progress-orange.svg)]()
-
+[![Notebook 01: Complete](https://img.shields.io/badge/notebook%2001-complete-brightgreen.svg)]()
 **Author:** Nandan Kumar K N  
 **Affiliation:** Independent researcher | M.Sc. Bioinformatics, University of West London  
 **Contact:** nandankumarkn4@gmail.com
